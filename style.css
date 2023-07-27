@@ -26,9 +26,8 @@ body {
   align-items: center;
   justify-content: baseline;
   /* justify-content: space-between; */
-
   height: 5vw;
-  background-color: red;
+  /* background-color: red; */
   text-align: center;
   /* display: block; */
   font-size: 3vw;
