@@ -25,11 +25,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: baseline;
-  /* justify-content: space-between; */
   height: 5vw;
   /* background-color: red; */
   text-align: center;
-  /* display: block; */
   font-size: 3vw;
   font-weight: 700;
   padding: 0 5vw;
@@ -56,6 +54,5 @@ body {
   height: 2vw;
   /* background-color: royalblue; */
   background-color: rgb(72, 18, 137);
-
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
 }
