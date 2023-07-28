@@ -88,7 +88,8 @@ body {
 }
 
 #nav #part2 a:nth-last-child(1) {
-  background-color: red;
+  background-color: yellowgreen;
+  padding: 7px 15px;
 }
 
 #nav > h1 {
