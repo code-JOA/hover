@@ -148,14 +148,14 @@ body {
 
 #main #img1 {
   height: 400px;
-  width: 290px;
+  width: 260px;
   position: absolute;
-  left: 7%;
+  left: 6%;
   top: 20%;
 }
 
 #main #img2 {
-  height: 300px;
+  height: 280px;
   width: 290px;
   position: absolute;
   right: 7%;
