@@ -87,6 +87,10 @@ body {
   margin: 20px;
 }
 
+#nav #part2 a:nth-last-child(1) {
+  background-color: red;
+}
+
 #nav > h1 {
   font-size: 20px;
   font-weight: 100;
