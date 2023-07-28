@@ -32,7 +32,8 @@ body {
   align-items: center;
   justify-content: baseline;
   height: 5vw;
-  background-color: red;
+  /* background-color: red; */
+  background-color: springgreen;
   text-align: center;
   font-size: 3vw;
   font-weight: 700;
