@@ -111,9 +111,9 @@ body {
   transition: left 0.4s ease;
 }
 
-#nav #part2 a:nth-last-child(1) h5 {
-}
-
 #nav #part2 a:nth-last-child(1):hover #green {
   left: 0;
+}
+
+#nav #part2 a:nth-last-child(1) h5 {
 }
