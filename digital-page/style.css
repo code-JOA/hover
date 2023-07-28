@@ -137,9 +137,9 @@ body {
   position: absolute;
   width: 35%;
   height: 16px;
-  /* background-color: red; */
-  background-image: url(https://thisisdigital.co.uk/dist/images/underline-green.svg);
-  bottom: 0;
+  background-color: springgreen;
+  /* background-image: url(https://thisisdigital.co.uk/dist/images/underline-green.svg); */
+  bottom: -5;
   background-size: cover;
   left: 32%;
   translate: translate(-50%, 0);
