@@ -137,7 +137,8 @@ body {
   position: absolute;
   width: 35%;
   height: 16px;
-  background-color: red;
+  /* background-color: red; */
+  background-image: url(https://thisisdigital.co.uk/dist/images);
   bottom: 0;
   left: 32%;
   translate: translate(-50%, 0);
