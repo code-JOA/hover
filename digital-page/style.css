@@ -158,6 +158,14 @@ body {
   height: 300px;
   width: 290px;
   position: absolute;
-  left: 7%;
+  right: 7%;
+  top: 18%;
+}
+
+#main #img3 {
+  height: 300px;
+  width: 290px;
+  position: absolute;
+  right: 7%;
   top: 20%;
 }
