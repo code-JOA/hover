@@ -1,6 +1,6 @@
 @font-face {
   font-family: cooper;
-  src: url();
+  src: url(./Cooperltbt.ff);
 }
 
 * {
@@ -14,7 +14,7 @@ html,
 body {
   width: 100%;
   height: 100%;
-  font-family: "Cooperltbt";
+  font-family: "cooper";
 }
 
 #main {
