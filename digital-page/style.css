@@ -147,4 +147,17 @@ body {
 }
 
 #main #img1 {
+  height: 400px;
+  width: 290px;
+  position: absolute;
+  left: 7%;
+  top: 20%;
+}
+
+#main #img2 {
+  height: 300px;
+  width: 290px;
+  position: absolute;
+  left: 7%;
+  top: 20%;
 }
