@@ -116,4 +116,5 @@ body {
 }
 
 #nav #part2 a:nth-last-child(1) h5 {
+  font-weight: 100;
 }
