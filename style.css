@@ -108,6 +108,7 @@ body {
   top: 0%;
   left: -100%;
   background-color: springgreen;
+  transition: left 0.3s ease;
 }
 
 #nav #part2 a:nth-last-child(1):hover #green {
