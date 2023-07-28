@@ -26,7 +26,7 @@ body {
   align-items: center;
   justify-content: baseline;
   height: 5vw;
-  /* background-color: red; */
+  background-color: red;
   text-align: center;
   font-size: 3vw;
   font-weight: 700;
@@ -55,4 +55,9 @@ body {
   /* background-color: royalblue; */
   background-color: rgb(72, 18, 137);
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
+}
+
+#nav {
+  height: 100px;
+  width: 100%;
 }
