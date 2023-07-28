@@ -136,4 +136,5 @@ body {
   content: "";
   position: absolute;
   width: 50%;
+  height: 16px;
 }
