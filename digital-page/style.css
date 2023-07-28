@@ -128,7 +128,7 @@ body {
   width: 60%;
   text-align: center;
   position: relative;
-  background-color: red;
+  /* background-color: red; */
   text-transform: capitalize;
 }
 
@@ -137,4 +137,7 @@ body {
   position: absolute;
   width: 50%;
   height: 16px;
+  background-color: red;
+  bottom: 0;
+  left: 20%;
 }
