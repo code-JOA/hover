@@ -81,6 +81,12 @@ body {
   justify-content: center;
 }
 
+#nav #part2 a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #nav > h1 {
   font-size: 20px;
   font-weight: 100;
