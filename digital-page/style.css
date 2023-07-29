@@ -155,17 +155,17 @@ body {
 }
 
 #main #img2 {
-  height: 280px;
-  width: 290px;
+  height: 210px;
+  width: 250px;
   position: absolute;
-  right: 7%;
+  right: 27%;
   top: 18%;
 }
 
 #main #img3 {
-  height: 250px;
-  width: 240px;
+  height: 210px;
+  width: 200px;
   position: absolute;
   right: 7%;
-  top: 20%;
+  top: 6%;
 }
