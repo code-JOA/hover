@@ -76,5 +76,5 @@ gsap.from("#img3", {
   delay: 0.4,
   opacity: 0,
   duration: 1,
-  x: 60,
+  y: -60,
 });
