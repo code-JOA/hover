@@ -128,7 +128,7 @@ body {
   width: 60%;
   text-align: center;
   position: relative;
-  z-index: ;
+  z-index: 99;
   /* background-color: red; */
   text-transform: capitalize;
 }
