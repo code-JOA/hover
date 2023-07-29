@@ -71,3 +71,10 @@ gsap.from("#img2", {
   duration: 1,
   x: 60,
 });
+
+gsap.from("#img3", {
+  delay: 0.4,
+  opacity: 0,
+  duration: 1,
+  x: 60,
+});
